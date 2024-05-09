@@ -1,3 +1,4 @@
+![logo](https://github.com/vikasagrawal947945/vikasagrawal947945/blob/main/WhatsApp%20Image%202024-05-09%20at%201.12.51%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Vikas Agrawal</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 <img align="right" alt= "coding" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbmLd7_YxMWW5d4FvNPUyQYEF4LUkTLW0-i00WfhwQA&s">
